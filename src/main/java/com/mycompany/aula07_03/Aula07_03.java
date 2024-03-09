@@ -27,7 +27,7 @@ public class Aula07_03 {
       
         System.out.println("ATIVIDADE 1 \n");
       
-        System.out.println("Digite um número de 1 a 10:");
+        System.out.println("Digite de 1 a 10:");
               int num9 = teclado1.nextInt();
       
       while (num9 != 10){
